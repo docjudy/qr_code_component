@@ -69,4 +69,7 @@ footer a { color: #3e52a3;
     .container p {
         font-size: 1.5rem;
     }
+    footer {
+        left: 14%;
+    }
 }
